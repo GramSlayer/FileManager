@@ -1,2 +1,2 @@
 # FileManager
-Experimental file manager app
+Experimental light file manager app for android.
